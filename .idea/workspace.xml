@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="753edf42-9720-4d04-9cd5-91eabe144286" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Zoo/Fleischfresser.class" afterPath="$PROJECT_DIR$/out/production/Zoo/Fleischfresser.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Zoo/Hyaene.class" afterPath="$PROJECT_DIR$/out/production/Zoo/Hyaene.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Zoo/Pflanzenfresser.class" afterPath="$PROJECT_DIR$/out/production/Zoo/Pflanzenfresser.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Zoo/Tier.class" afterPath="$PROJECT_DIR$/out/production/Zoo/Tier.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Zoo/Zoo.class" afterPath="$PROJECT_DIR$/out/production/Zoo/Zoo.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Fleischfresser.java" afterPath="$PROJECT_DIR$/src/Fleischfresser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Hase.java" afterPath="$PROJECT_DIR$/src/Hase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Hyaene.java" afterPath="$PROJECT_DIR$/src/Hyaene.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Pflanzenfresser.java" afterPath="$PROJECT_DIR$/src/Pflanzenfresser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tier.java" afterPath="$PROJECT_DIR$/src/Tier.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Zoo.java" afterPath="$PROJECT_DIR$/src/Zoo.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,12 +33,12 @@
       <file leaf-file-name="Fleischfresser.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Fleischfresser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="60" column="33" lean-forward="false" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
+            <state relative-caret-position="270">
+              <caret line="45" column="70" lean-forward="true" selection-start-line="45" selection-start-column="70" selection-end-line="45" selection-end-column="70" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2103#2104#0" expanded="true" />
-                <element signature="e#2174#2175#0" expanded="true" />
+                <element signature="e#2093#2094#0" expanded="true" />
+                <element signature="e#2164#2165#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -117,7 +106,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Zoo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Zoo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Zoo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="229">
@@ -127,10 +116,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Wolf.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Wolf.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Wolf.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
+            <state relative-caret-position="325">
               <caret line="29" column="49" lean-forward="false" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
               <folding>
                 <element signature="e#962#963#0" expanded="true" />
@@ -178,8 +167,8 @@
         <option value="$PROJECT_DIR$/src/Hase.java" />
         <option value="$PROJECT_DIR$/src/Tier.java" />
         <option value="$PROJECT_DIR$/src/Pflanzenfresser.java" />
-        <option value="$PROJECT_DIR$/src/Fleischfresser.java" />
         <option value="$PROJECT_DIR$/src/Zoo.java" />
+        <option value="$PROJECT_DIR$/src/Fleischfresser.java" />
       </list>
     </option>
   </component>
@@ -735,12 +724,12 @@
       <updated>1481794685546</updated>
       <workItem from="1481794688027" duration="2024000" />
       <workItem from="1481818774769" duration="10551000" />
-      <workItem from="1481831991089" duration="305000" />
+      <workItem from="1481831991089" duration="1084000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12880000" />
+    <option name="totallyTimeSpent" value="13659000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -752,7 +741,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -762,10 +751,10 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5060514" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.49394855" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -809,8 +798,8 @@
           <caret line="60" column="63" lean-forward="true" selection-start-line="60" selection-start-column="63" selection-end-line="60" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2103#2104#0" expanded="true" />
-            <element signature="e#2174#2175#0" expanded="true" />
+            <element signature="e#2093#2094#0" expanded="true" />
+            <element signature="e#2164#2165#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -900,8 +889,8 @@
           <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2103#2104#0" expanded="true" />
-            <element signature="e#2174#2175#0" expanded="true" />
+            <element signature="e#2093#2094#0" expanded="true" />
+            <element signature="e#2164#2165#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1039,17 +1028,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Wolf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="29" column="49" lean-forward="false" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
-          <folding>
-            <element signature="e#962#963#0" expanded="true" />
-            <element signature="e#1018#1019#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -1069,23 +1047,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Fleischfresser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="60" column="33" lean-forward="false" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2103#2104#0" expanded="true" />
-            <element signature="e#2174#2175#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Zoo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
           <caret line="33" column="71" lean-forward="false" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="71" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Fleischfresser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="45" column="70" lean-forward="true" selection-start-line="45" selection-start-column="70" selection-end-line="45" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2093#2094#0" expanded="true" />
+            <element signature="e#2164#2165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wolf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="29" column="49" lean-forward="false" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+          <folding>
+            <element signature="e#962#963#0" expanded="true" />
+            <element signature="e#1018#1019#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

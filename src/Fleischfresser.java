@@ -34,10 +34,10 @@ abstract public class Fleischfresser extends Tier{
 
         }
         else if(beutetier == this){
-            System.out.println("Ein Beutetier kann sich nicht selbst fressen.\n");
+            System.out.println("Ein Tier kann sich nicht selbst fressen.\n");
         }
         else if (this.zoo != beutetier.zoo) {
-            System.out.println("Die Beutetiere befinden sich nicht im selben Zoo.\n");
+            System.out.println("Die Tiere befinden sich nicht im selben Zoo.\n");
         }
         else if (beutetier.lebendig) {
             System.out.println("Das Beutetier ist lebendig.\n");
