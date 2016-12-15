@@ -14,8 +14,7 @@ abstract public class Tier {
         this.zoo = zoo;
         zoo.nimmTierAuf(this);
     }
-
     public String toString() {
-        return "\nName: " +name +"\nGewicht: " +gewicht +"\nLebendig: " +lebendig + "\nZoo: " +zoo +"\n";
+        return "\nName: " +name +"\nGewicht: " +gewicht +"\nLebendig: " +lebendig + "\nZoo: " +zoo.name +"\n";
     }
 }

@@ -57,7 +57,7 @@ abstract public class Fleischfresser extends Tier{
         return retString;
     }
 
-    public String toSting() {
-        return "\nIst Jaeger?:  " +istJaeger +super.toString();
+    public String toString() {
+        return "\nIst Jaeger? :  " +istJaeger +super.toString();
     }
 }

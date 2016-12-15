@@ -31,9 +31,9 @@ public class Zoo {
     }
 
     public String toString() {
-       String returnString = "Zooname: " +name +"\nListe aller Tiere: ";
+       String returnString = "Zooname: " +name +"\nListe aller Tiere:\n";
        for (Tier t:tierListe) {
-           returnString +="\n" +t.name;
+           returnString +="\n" +t.toString();
        }
        returnString+="\n";
        return returnString;

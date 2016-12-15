@@ -9,8 +9,8 @@ abstract public class Pflanzenfresser extends Tier{
         this.lieblingsPflanze = lieblingsPflanze;
     }
 
-    public String toSting() {
-        return "\nLieblingspflanze " +lieblingsPflanze +super.toString();
+    public String toString() {
+        return "\nLieblingspflanze: " +lieblingsPflanze +super.toString();
     }
 
 }
