@@ -15,7 +15,7 @@ public class Wolf extends Fleischfresser {
                 System.out.println("Das Beutetier ist schon tot.\n");
             }
             else if (!lebendig) {
-                System.out.println("Nur lebendige Tiere können erlegen.\n");
+                System.out.println("Nur lebendige Tiere koennen erlegen.\n");
             }
             else if (beutetier == this) {
                 System.out.println("Ein Tier kann sich nicht selber erlegen.\n");

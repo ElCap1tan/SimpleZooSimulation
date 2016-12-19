@@ -43,7 +43,7 @@ abstract public class Fleischfresser extends Tier{
             System.out.println("Das Beutetier ist lebendig.\n");
         }
         else if (!lebendig) {
-            System.out.println("Nur lebende Tiere dürfen fressen.\n");
+            System.out.println("Nur lebende Tiere duerfen fressen.\n");
         }
     }
 
